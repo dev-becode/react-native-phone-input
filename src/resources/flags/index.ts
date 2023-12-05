@@ -103,7 +103,6 @@ class FlagResource {
             hu: require('./images/hu.png'),
             id: require('./images/id.png'),
             ie: require('./images/ie.png'),
-            il: require('./images/il.png'),
             im: require('./images/im.png'),
             in: require('./images/in.png'),
             io: require('./images/io.png'),

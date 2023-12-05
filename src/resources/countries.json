@@ -768,13 +768,6 @@
     "areaCodes": null
   },
   {
-    "name": "Israel (‫ישראל‬‎)",
-    "iso2": "il",
-    "dialCode": "972",
-    "priority": 0,
-    "areaCodes": null
-  },
-  {
     "name": "Italy (Italia)",
     "iso2": "it",
     "dialCode": "39",
